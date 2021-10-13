@@ -1,0 +1,42 @@
+.top {
+    background-color:black;
+    margin: 5px;
+}
+.top h1 {
+    font-family: Helvetica;
+    color: white;
+    font-size: 50px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.top h1 span {
+    color: turquoise;
+}
+
+.middle {
+    background-color: purple;
+    margin: 5px;
+}
+
+.middle h2 {
+    color: white;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.bottom {
+    background-color: lightskyblue;
+    margin: 5px;
+}
+
+.bottom h3 {
+    text-align: right;
+    text-decoration: underline;
+    font-size: 25px;
+    padding: 5px;
+    margin: 5px;
+}
